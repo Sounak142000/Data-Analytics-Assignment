@@ -1,0 +1,5 @@
+Left Skewed Distribution-(LS)- Wealth Distribution of World Population- Mode<Mean<Median
+Right Skewed Distribution-(RS)- Average Age of World Population- Median<Mean<Mode
+Mean- Rs>LS 
+Median- Rs=LS
+Mode- Rs>LS
